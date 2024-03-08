@@ -1,6 +1,7 @@
 # Storytelling-Data-Visualization-on-Exchange-Rates
 
 Exciting Data Visualization Project: Exploring Euro to USD Exchange Rates 📊
+
 🌟 Project Overview:
 
 In this captivating project, I delved into the fascinating world of data visualization, specifically focusing on the Euro to USD exchange rates from 1999 to 2022. Through a combination of data analysis and storytelling techniques, I uncovered insightful trends and patterns within the exchange rate data.
