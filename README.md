@@ -16,9 +16,6 @@ Presidential Influence: Compared exchange rate trends across the tenures of the 
 Employed rolling means to smooth out daily fluctuations in the exchange rate data, revealing underlying trends.
 Crafted engaging narratives around significant historical events, making the data relatable and compelling.
 Leveraged Matplotlib's customization options to design visually appealing and informative visualizations.
-🙏 Special Thanks:
-
-I extend my heartfelt gratitude to Techma Zone and Muhammad Danial Gauhar for their unwavering support and guidance throughout this analytical journey. Their expertise and encouragement were instrumental in shaping this project.
 
 #DataVisualization #EuroToUSD #FinancialAnalysis #Matplotlib #GitHub #DataScience #Analytics
 
